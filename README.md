@@ -136,6 +136,11 @@ Para gerar e visualizar a documentação do frontend:
     └── ...
 ```
 
+## Membros atuais da equipe do projeto
+
+* [JulioCesar82](https://github.com/JulioCesar82) -
+**Julio Ávila** <https://www.linkedin.com/in/juliocesar82>
+  
 ## Contribuindo
 
 Contribuições são bem-vindas! Por favor, siga os seguintes passos:
